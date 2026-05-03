@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `Loan` ADD COLUMN `isActive` BOOLEAN NOT NULL DEFAULT true;
